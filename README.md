@@ -1,5 +1,5 @@
-# RDT Data Transfer Simulation
-### This project sets up and simulates the transfer of packets between a server (A) and a client (B), allowing users to compare the performance of the go_back_n and stop_and_wait transfer protocols
+# Reliable Data Transfer Simulation
+### This project sets up and simulates the transfer of packets between a server (A) and a client (B), allowing users to compare the performance of the go_back_n and stop_and_wait transfer protocols. This simulation focusses on movement from the Network to the Application layers of the TCP/IP transfer model.  
 Thomas Knickerbocker,03/20/2023  
 ==================================================================
 
